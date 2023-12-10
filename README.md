@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/dami0067/IaC-InfrastructureAsCode/_apis/build/status%2FSpaceGame-App%2FSpaceGame-Web-Deploy?branchName=main)](https://dev.azure.com/dami0067/IaC-InfrastructureAsCode/_build/latest?definitionId=17&branchName=main)
 
 # Contributing
 
